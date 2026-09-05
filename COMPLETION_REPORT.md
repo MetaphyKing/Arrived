@@ -31,4 +31,4 @@ GATE INTEGRATION: PASS
 Task 1–5 on 2026-09-05, BI7, one loop iteration. Shoulder Angels refused (no ANTHROPIC_API_KEY); Cael forks documented per Vesper ruling.
 
 ## Repo
-MetaphyKing/Arrived (public) — URL filled after `gh repo create`.
+https://github.com/MetaphyKing/Arrived (PUBLIC) — `gh repo view` 2026-09-05, git status clean and pushed.
