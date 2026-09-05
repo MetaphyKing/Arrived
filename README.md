@@ -1,3 +1,9 @@
+<p align="center">
+  <img width="1280" height="850" alt="stay-hero" src="https://github.com/MetaphyKing/Arrived/blob/master/assets/arrived-hero.webp?raw=true"> 
+</p>
+
+---
+
 # Arrived
 
 A stdlib Python CLI for AI engineers. **Local success is a debt, not a verdict.**
