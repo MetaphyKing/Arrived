@@ -224,3 +224,5 @@ README § Team Brain: wrap a local send so exit 0 means the minted id appeared o
 
 ## close
 2026-09-05 Task 5. Repo https://github.com/MetaphyKing/Arrived PUBLIC, origin/master clean. Minted Artifact/Arrived/a-8582 (card kept; volume not pasted). `tools\ait.cmd` was missing; minted via `stay_seat.py` with STAY_ROOT=`C:\dev\ait\encyclopedia` (same door), then wrote `C:\dev\ait\tools\ait.cmd`. Session log: Memory Core `SESSION_Arrived_2026-09-05.md`. Manifest row Uploaded / cael. Chat transcript not exportable from this runtime; BUILD_LOG is the record.
+
+SELF-REPORT: m_mtov6rn9f2o3jd
